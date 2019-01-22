@@ -1,0 +1,22 @@
+ Volume in drive C is SYSTEM
+ Volume Serial Number is 9E5F-5D41
+
+ Directory of C:\Users\Training
+
+2019. 01. 16.  11:46    <DIR>          Documents
+2019. 01. 16.  11:08    <DIR>          Downloads
+               0 File(s)              0 bytes
+               2 Dir(s)  459ÿ523ÿ305ÿ472 bytes free
+ Volume in drive C is SYSTEM
+ Volume Serial Number is 9E5F-5D41
+
+ Directory of C:\Users\Training\Documents
+
+2019. 01. 16.  11:52    <DIR>          .
+2019. 01. 16.  11:52    <DIR>          ..
+2019. 01. 16.  11:52                 0 mylog.txt
+2019. 01. 16.  11:46    <DIR>          Proba
+2019. 01. 16.  09:28    <DIR>          Tananyagok
+2018. 10. 31.  21:59    <DIR>          WindowsPowerShell
+               1 File(s)              0 bytes
+               5 Dir(s)  459ÿ522ÿ707ÿ456 bytes free
